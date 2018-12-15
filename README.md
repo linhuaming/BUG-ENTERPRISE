@@ -1,7 +1,7 @@
 [TOC]
 
 ##### 1.部署先看部署演示视频#####
-链接：++http://pan.baidu.com/s/1jHDc3Ls++ 密码：c7b3
+链接：++ http://pan.baidu.com/s/1jHDc3Ls ++ 密码：c7b3
 
 ##### 2. 部署成功后#####
 - 先在后台重新上传图片
